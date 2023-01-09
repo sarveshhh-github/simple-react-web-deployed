@@ -1,0 +1,65 @@
+[
+  {
+    "s-id": "020 ",
+    "sname": "Body Massage With Oil",
+    "mprice": " 1130",
+    "category": "Massage",
+    "nmprice": "1420"
+  },
+  {
+    "s-id": " 021",
+    "sname": "Body Massage With Balm containing Oil",
+    "mprice": " 1660",
+    "category": "Massage",
+    "nmprice": "2070"
+  },
+  {
+    "s-id": " 022",
+    "sname": "Body Exfoliation with Sugar Peel ",
+    "mprice": "1890 ",
+    "category": "Massage",
+    "nmprice": "2360"
+  },
+  {
+    "s-id": " 023",
+    "sname": "Body Wraps With Cotton Extracts",
+    "mprice": " 2690",
+    "category": "Massage",
+    "nmprice": "3360"
+  },
+  {
+    "s-id": " 024",
+    "sname": "Back Massage With Oil",
+    "mprice": " 600",
+    "category": "Massage",
+    "nmprice": "750"
+  },
+  {
+    "s-id": " 025",
+    "sname": "Sparkling Back Therapy",
+    "mprice": " 2000",
+    "category": "Massage",
+    "nmprice": "2500"
+  },
+  {
+    "s-id": "026 ",
+    "sname": "Full Arms Sparkling Therapy",
+    "mprice": " 1600",
+    "category": "Massage",
+    "nmprice": "2000"
+  },
+  {
+    "s-id": " 027",
+    "sname": "Full Legs Sparkling Therapy",
+    "mprice": " 2000",
+    "category": "Massage",
+    "nmprice": "2500"
+  },
+  {
+    "s-id": " 028",
+    "sname": "Full Body Sparkling Therapy",
+    "mprice": "5000 ",
+    "category": "Massage",
+    "nmprice": "6250"
+  }
+]

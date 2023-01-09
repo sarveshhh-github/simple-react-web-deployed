@@ -1,0 +1,93 @@
+[
+  {
+    "sid": "013",
+    "sname": "Under Arms",
+    "mprice": "100",
+    "category": "Wax",
+    "nmprice": "125"
+  },
+  {
+    "sid": "014",
+    "sname": "Full Arms",
+    "mprice": "250",
+    "category": "Wax",
+    "nmprice": "315"
+  },
+  {
+    "sid": "015",
+    "sname": "Full Legs",
+    "mprice": "350",
+    "category": "Wax",
+    "nmprice": "440"
+  },
+  {
+    "sid": "016",
+    "sname": "Full Back",
+    "mprice": "350",
+    "category": "Wax",
+    "nmprice": "440"
+  },
+  {
+    "sid": "017",
+    "sname": "Full Front",
+    "mprice": "350",
+    "category": "Wax",
+    "nmprice": "440"
+  },
+  {
+    "sid": "018",
+    "sname": "Stomach",
+    "mprice": "250",
+    "category": "Wax",
+    "nmprice": "315"
+  },
+  {
+    "sid": "019",
+    "sname": "Half Arms",
+    "mprice": "200",
+    "category": "Wax",
+    "nmprice": "250"
+  },
+  {
+    "sid": "020",
+    "sname": "Half Legs",
+    "mprice": "250",
+    "category": "Wax",
+    "nmprice": "315"
+  },
+  {
+    "sid": "021",
+    "sname": "Half Back",
+    "mprice": "250",
+    "category": "Wax",
+    "nmprice": "315"
+  },
+  {
+    "sid": "022",
+    "sname": "Half Front",
+    "mprice": "250",
+    "category": "Wax",
+    "nmprice": "315"
+  },
+  {
+    "sid": "023",
+    "sname": "Behind",
+    "mprice": "350",
+    "category": "Wax",
+    "nmprice": "440"
+  },
+  {
+    "sid": "024",
+    "sname": "Bikini",
+    "mprice": "800",
+    "category": "Wax",
+    "nmprice": "1100"
+  },
+  {
+    "sid": "025",
+    "sname": "Full Body",
+    "mprice": "1800",
+    "category": "Wax",
+    "nmprice": "2250"
+  }
+]

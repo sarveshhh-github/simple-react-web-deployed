@@ -1,0 +1,44 @@
+[
+  {
+    "category": "hair",
+    "s-id": "001",
+    "sname": "haircut men",
+    "mprice": "300",
+    "nmprice": "375"
+  },
+  {
+    "s-id": "002",
+    "category": "hair",
+    "sname": "haircut women",
+    "mprice": "600",
+    "nmprice": "750"
+  },
+  {
+    "category": "hair",
+    "s-id": "003",
+    "sname": "haircut with wash women",
+    "mprice": "700",
+    "nmprice": "875"
+  },
+  {
+    "s-id": "004",
+    "category": "hair",
+    "sname": "kids hair cut girls",
+    "mprice": "400",
+    "nmprice": "500"
+  },
+  {
+    "s-id": "005",
+    "category": "hair",
+    "sname": "fringe haircut",
+    "mprice": "300",
+    "nmprice": "375"
+  },
+  {
+    "s-id": "006",
+    "category": "hair",
+    "sname": "shave ",
+    "mprice": "152",
+    "nmprice": "190"
+  }
+]
