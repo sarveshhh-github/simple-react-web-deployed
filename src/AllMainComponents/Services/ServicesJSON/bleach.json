@@ -1,90 +1,77 @@
 [
   {
-    "sid": "001",
     "sname": "Face and Neck",
     "mprice": "310",
     "category": "Bleach",
     "nmprice": "380"
   },
   {
-    "sid": "002",
     "sname": "Full Arms",
     "mprice": "350",
     "category": "Bleach",
     "nmprice": "440"
   },
   {
-    "sid": "003",
     "sname": "Full Legs",
     "mprice": "495",
     "category": "Bleach",
     "nmprice": "620"
   },
   {
-    "sid": "004",
     "sname": "Full Back",
     "mprice": "495",
     "category": "Bleach",
     "nmprice": "620"
   },
   {
-    "sid": "005",
     "sname": "Full Front",
     "mprice": "495",
     "category": "Bleach",
     "nmprice": "620"
   },
   {
-    "sid": "006",
     "sname": "Under Arms",
     "mprice": "140",
     "category": "Bleach",
     "nmprice": "180"
   },
   {
-    "sid": "007",
     "sname": "Half Arms",
     "mprice": "240",
     "category": "Bleach",
     "nmprice": "300"
   },
   {
-    "sid": "008",
     "sname": "Half Legs",
     "mprice": "310",
     "category": "Bleach",
     "nmprice": "380"
   },
   {
-    "sid": "015",
     "sname": "Half Front",
     "mprice": "310",
     "category": "Bleach",
     "nmprice": "380"
   },
   {
-    "sid": "009",
     "sname": "Half Back",
     "mprice": "310",
     "category": "Bleach",
     "nmprice": "380"
   },
   {
-    "sid": "010",
     "sname": "Feet",
     "mprice": "140",
     "category": "Bleach",
     "nmprice": "180"
   },
   {
-    "sid": "011",
-    "sname": "Stomach",
+      "sname": "Stomach",
     "mprice": "240",
     "category": "Bleach",
     "nmprice": "300"
   },
   {
-    "sid": "012",
     "sname": "Full Body",
     "mprice": "1890",
     "category": "Bleach",
