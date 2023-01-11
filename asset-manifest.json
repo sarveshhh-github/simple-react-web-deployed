@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/project1-repeat/static/css/main.1e903b85.css",
+    "main.js": "/project1-repeat/static/js/main.62dbe1c1.js",
+    "static/media/The Empire Salon.png": "/project1-repeat/static/media/The Empire Salon.cbfd96f33ece22ef6220.png",
+    "static/media/Tulasha.jpg": "/project1-repeat/static/media/Tulasha.2d1fd67370bcb91458aa.jpg",
+    "static/media/Rinkal.jpg": "/project1-repeat/static/media/Rinkal.e2e94a37f635e1a9acc4.jpg",
+    "static/media/Jignesh.jpg": "/project1-repeat/static/media/Jignesh.dd7f423c95b10e576bac.jpg",
+    "index.html": "/project1-repeat/index.html",
+    "main.1e903b85.css.map": "/project1-repeat/static/css/main.1e903b85.css.map",
+    "main.62dbe1c1.js.map": "/project1-repeat/static/js/main.62dbe1c1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e903b85.css",
+    "static/js/main.62dbe1c1.js"
+  ]
+}
